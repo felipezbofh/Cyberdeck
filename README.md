@@ -1,7 +1,3 @@
-Here is your final, complete **README.md**. It is organized for a professional GitHub repository and includes all the "gotchas" we solved, especially the tricky Enphase system selection.
-
-***
-
 # 📟 CYD Cyberdeck: Queensland IoT Dashboard
 
 A multi-functional IoT dashboard built for the **ESP32-2432S028** (Cheap Yellow Display). This project features a series of "Cyber" themed screens providing real-time data for local weather, global finance, energy monitoring, and QLD fuel prices.
